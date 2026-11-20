@@ -1,0 +1,1920 @@
+{
+ "seedV": 1,
+ "setores": [
+  {
+   "cargo": "AUXILIAR DE PRODUCAO",
+   "dep": "Administracao Loja",
+   "filial": "Jardim Tropical",
+   "id": "s056",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "GERENTE DE LOJA",
+   "dep": "Administracao Loja",
+   "filial": "Jardim Tropical",
+   "id": "p002",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "SUBGERENTE DE LOJA",
+   "dep": "Administracao Loja",
+   "filial": "Jardim Tropical",
+   "id": "p003",
+   "ideal": 2,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "ASSISTENTE ADMINISTRATIVO",
+   "dep": "Administracao Loja",
+   "filial": "Jardim Tropical",
+   "id": "s057",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "GERENTE DE LIMPEZA",
+   "dep": "Administracao Loja",
+   "filial": "Jardim Tropical",
+   "id": "p005",
+   "ideal": 0,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "AUXILIAR DE LOJA I",
+   "dep": "Atendimento Embalagem",
+   "filial": "Jardim Tropical",
+   "id": "s058",
+   "ideal": 8,
+   "nivel": "BASE",
+   "pcd": 6,
+   "real": 8
+  },
+  {
+   "cargo": "AUXILIAR DE LOJA I - HORISTA",
+   "dep": "Atendimento Embalagem",
+   "filial": "Jardim Tropical",
+   "id": "s059",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "AUXILIAR DE LOJA II",
+   "dep": "Atendimento Embalagem",
+   "filial": "Jardim Tropical",
+   "id": "s060",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "AUXILIAR DE LOJA II",
+   "dep": "Boteco",
+   "filial": "Jardim Tropical",
+   "id": "s061",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "REPOSITOR",
+   "dep": "Boteco",
+   "filial": "Jardim Tropical",
+   "id": "s062",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "VENDEDOR - COMISSIONADO",
+   "dep": "Boteco",
+   "filial": "Jardim Tropical",
+   "id": "s063",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "VENDEDOR",
+   "dep": "Boteco",
+   "filial": "Jardim Tropical",
+   "id": "s064",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "FISCAL DE PREV DE PERDAS",
+   "dep": "Controle e Prev. de Perdas",
+   "filial": "Jardim Tropical",
+   "id": "s065",
+   "ideal": 22,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 22
+  },
+  {
+   "cargo": "GERENTE DE PREVENCAO DE PERDA",
+   "dep": "Controle e Prev. de Perdas",
+   "filial": "Jardim Tropical",
+   "id": "p014",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "AUXILIAR DE DEPOSITO",
+   "dep": "Deposito",
+   "filial": "Jardim Tropical",
+   "id": "s066",
+   "ideal": 11,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 11
+  },
+  {
+   "cargo": "CONFERENTE",
+   "dep": "Deposito",
+   "filial": "Jardim Tropical",
+   "id": "s067",
+   "ideal": 6,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 6
+  },
+  {
+   "cargo": "GERENTE DE DEPOSITO",
+   "dep": "Deposito",
+   "filial": "Jardim Tropical",
+   "id": "p017",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "AUXILIAR DE ELETRO",
+   "dep": "Eletro",
+   "filial": "Jardim Tropical",
+   "id": "s068",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "AUXILIAR DE LOJA II",
+   "dep": "Eletro",
+   "filial": "Jardim Tropical",
+   "id": "s069",
+   "ideal": 4,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 4
+  },
+  {
+   "cargo": "CONFERENTE",
+   "dep": "Eletro",
+   "filial": "Jardim Tropical",
+   "id": "s070",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "CONSULTOR DE VENDA - COMISSIONADO",
+   "dep": "Eletro",
+   "filial": "Jardim Tropical",
+   "id": "s071",
+   "ideal": 9,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 9
+  },
+  {
+   "cargo": "GERENTE DE ELETRO",
+   "dep": "Eletro",
+   "filial": "Jardim Tropical",
+   "id": "p022",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "MONTADOR",
+   "dep": "Eletro",
+   "filial": "Jardim Tropical",
+   "id": "s072",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "SUBGERENTE DE ELETRO",
+   "dep": "Eletro",
+   "filial": "Jardim Tropical",
+   "id": "p024",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "ASSISTENTE ADMINISTRATIVO",
+   "dep": "Eletro",
+   "filial": "Jardim Tropical",
+   "id": "s073",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "AUXILIAR ADMINISTRATIVO",
+   "dep": "Faturamento",
+   "filial": "Jardim Tropical",
+   "id": "s074",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "AUXILIAR ESTACIONAMENTO",
+   "dep": "Frente de Loja",
+   "filial": "Jardim Tropical",
+   "id": "s075",
+   "ideal": 3,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 4
+  },
+  {
+   "cargo": "FISCAL DE CAIXA",
+   "dep": "Frente de Loja",
+   "filial": "Jardim Tropical",
+   "id": "s076",
+   "ideal": 7,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 7
+  },
+  {
+   "cargo": "GERENTE DE FRENTE DE LOJA",
+   "dep": "Frente de Loja",
+   "filial": "Jardim Tropical",
+   "id": "p029",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "AUXILIAR DE LOJA II",
+   "dep": "Frente de Loja",
+   "filial": "Jardim Tropical",
+   "id": "s077",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "AUXILIAR DE SERVICOS GERAIS",
+   "dep": "Limpeza",
+   "filial": "Jardim Tropical",
+   "id": "s078",
+   "ideal": 19,
+   "nivel": "BASE",
+   "pcd": 3,
+   "real": 21
+  },
+  {
+   "cargo": "GERENTE DE LIMPEZA",
+   "dep": "Limpeza",
+   "filial": "Jardim Tropical",
+   "id": "p032",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "AUXILIAR DE SERVICOS GERAIS - HORISTA",
+   "dep": "Limpeza",
+   "filial": "Jardim Tropical",
+   "id": "s079",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "CARTAZISTA",
+   "dep": "Marketing",
+   "filial": "Jardim Tropical",
+   "id": "s080",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "LOCUTOR",
+   "dep": "Marketing",
+   "filial": "Jardim Tropical",
+   "id": "s081",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "PROMOTOR DE MARCAS",
+   "dep": "Merchandising",
+   "filial": "Jardim Tropical",
+   "id": "s082",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "PROMOTOR DE PERECIVEIS",
+   "dep": "Merchandising",
+   "filial": "Jardim Tropical",
+   "id": "s083",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "TECNICO EM MANUTENCAO",
+   "dep": "Operacoes de Manutencao",
+   "filial": "Jardim Tropical",
+   "id": "s084",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "GERENTE DE PEIXARIA",
+   "dep": "Peixaria",
+   "filial": "Jardim Tropical",
+   "id": "p039",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "PEIXEIRO",
+   "dep": "Peixaria",
+   "filial": "Jardim Tropical",
+   "id": "s085",
+   "ideal": 6,
+   "nivel": "BASE",
+   "pcd": 1,
+   "real": 6
+  },
+  {
+   "cargo": "PEIXEIRO I",
+   "dep": "Peixaria",
+   "filial": "Jardim Tropical",
+   "id": "s086",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "GERENTE DE REPOSICAO",
+   "dep": "Reposicao",
+   "filial": "Jardim Tropical",
+   "id": "p042",
+   "ideal": 2,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "OPERADOR DE EMPILHADEIRA",
+   "dep": "Reposicao",
+   "filial": "Jardim Tropical",
+   "id": "s087",
+   "ideal": 5,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 5
+  },
+  {
+   "cargo": "REPOSITOR",
+   "dep": "Reposicao",
+   "filial": "Jardim Tropical",
+   "id": "s088",
+   "ideal": 34,
+   "nivel": "BASE",
+   "pcd": 3,
+   "real": 37
+  },
+  {
+   "cargo": "REPOSITOR - HORISTA",
+   "dep": "Reposicao",
+   "filial": "Jardim Tropical",
+   "id": "s089",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "VENDEDOR",
+   "dep": "Reposicao",
+   "filial": "Jardim Tropical",
+   "id": "s090",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "ANALISTA DE RH",
+   "dep": "Suporte em Operacoes Rh",
+   "filial": "Jardim Tropical",
+   "id": "s091",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "ASSISTENTE DE RH",
+   "dep": "Suporte em Operacoes Rh",
+   "filial": "Jardim Tropical",
+   "id": "s092",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "AUXILIAR DE CPD",
+   "dep": "Suporte Operacional de T.I",
+   "filial": "Jardim Tropical",
+   "id": "s093",
+   "ideal": 3,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 3
+  },
+  {
+   "cargo": "AUXILIAR DE LOJA II",
+   "dep": "Atendimento Caixa",
+   "filial": "Jardim Tropical",
+   "id": "s094",
+   "ideal": 85,
+   "nivel": "BASE",
+   "pcd": 1,
+   "real": 82
+  },
+  {
+   "cargo": "AUXILIAR DE LOJA II - HORISTA",
+   "dep": "Atendimento Caixa",
+   "filial": "Jardim Tropical",
+   "id": "s095",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "ACOUGUEIRO",
+   "dep": "Acougue",
+   "filial": "Jardim Tropical",
+   "id": "s053",
+   "ideal": 11,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 11
+  },
+  {
+   "cargo": "ACOUGUEIRO I",
+   "dep": "Acougue",
+   "filial": "Jardim Tropical",
+   "id": "s054",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "AUXILIAR DE ACOUGUE",
+   "dep": "Acougue",
+   "filial": "Jardim Tropical",
+   "id": "s055",
+   "ideal": 6,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 6
+  },
+  {
+   "cargo": "GERENTE DE ACOUGUE",
+   "dep": "Acougue",
+   "filial": "Jardim Tropical",
+   "id": "p055",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "CONFERENTE",
+   "dep": "Frios",
+   "filial": "Jardim Tropical",
+   "id": "s096",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "GERENTE DE FRIOS E LATICINIOS",
+   "dep": "Frios",
+   "filial": "Jardim Tropical",
+   "id": "p057",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "REPOSITOR",
+   "dep": "Frios",
+   "filial": "Jardim Tropical",
+   "id": "s097",
+   "ideal": 17,
+   "nivel": "BASE",
+   "pcd": 1,
+   "real": 16
+  },
+  {
+   "cargo": "AUXILIAR DE LOJA II",
+   "dep": "Atacado - Balcao Loja",
+   "filial": "Jardim Tropical",
+   "id": "s098",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "CONFERENTE",
+   "dep": "Atacado - Balcao Loja",
+   "filial": "Jardim Tropical",
+   "id": "s099",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "GERENTE DE EXPEDICAO",
+   "dep": "Atacado - Balcao Loja",
+   "filial": "Jardim Tropical",
+   "id": "p061",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "GERENTE DE VENDAS",
+   "dep": "Atacado - Balcao Loja",
+   "filial": "Jardim Tropical",
+   "id": "p062",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "VENDEDOR DE BALCAO - COMISSIONADO",
+   "dep": "Atacado - Balcao Loja",
+   "filial": "Jardim Tropical",
+   "id": "s100",
+   "ideal": 4,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 4
+  },
+  {
+   "cargo": "SEPARADOR",
+   "dep": "Atacado - Balcao Loja",
+   "filial": "Jardim Tropical",
+   "id": "s101",
+   "ideal": 4,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 3
+  },
+  {
+   "cargo": "VENDEDOR DE BALCAO",
+   "dep": "Atacado - Balcao Loja",
+   "filial": "Jardim Tropical",
+   "id": "s102",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "AUXILIAR DE PRODUCAO",
+   "dep": "Padaria",
+   "filial": "Jardim Tropical",
+   "id": "s103",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "BALCONISTA",
+   "dep": "Padaria",
+   "filial": "Jardim Tropical",
+   "id": "s104",
+   "ideal": 7,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 7
+  },
+  {
+   "cargo": "CONFEITEIRO",
+   "dep": "Padaria",
+   "filial": "Jardim Tropical",
+   "id": "s105",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "GERENTE DE PADARIA",
+   "dep": "Padaria",
+   "filial": "Jardim Tropical",
+   "id": "p069",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "PADEIRO",
+   "dep": "Padaria",
+   "filial": "Jardim Tropical",
+   "id": "s106",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "PIZZAIOLO",
+   "dep": "Padaria",
+   "filial": "Jardim Tropical",
+   "id": "s107",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "FORNEIRO",
+   "dep": "Padaria",
+   "filial": "Jardim Tropical",
+   "id": "s108",
+   "ideal": 4,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 3
+  },
+  {
+   "cargo": "AUXILIAR DE SERVICOS GERAIS",
+   "dep": "Padaria",
+   "filial": "Jardim Tropical",
+   "id": "s109",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "GERENTE DE HORTIFRUTI",
+   "dep": "Hortifruti",
+   "filial": "Jardim Tropical",
+   "id": "p074",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "REPOSITOR I",
+   "dep": "Hortifruti",
+   "filial": "Jardim Tropical",
+   "id": "s110",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "REPOSITOR",
+   "dep": "Hortifruti",
+   "filial": "Jardim Tropical",
+   "id": "s111",
+   "ideal": 21,
+   "nivel": "BASE",
+   "pcd": 1,
+   "real": 19
+  },
+  {
+   "cargo": "COMPRADOR JUNIOR",
+   "dep": "Hortifruti",
+   "filial": "Jardim Tropical",
+   "id": "s112",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "APRENDIZ",
+   "dep": "Aprendizagem",
+   "filial": "Jardim Tropical",
+   "id": "p078",
+   "ideal": 15,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 15,
+   "semAd": true
+  },
+  {
+   "cargo": "CONFERENTE DE INVENTARIO",
+   "dep": "Estoque",
+   "filial": "Jardim Tropical",
+   "id": "p079",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "ESTOQUISTA",
+   "dep": "Estoque",
+   "filial": "Jardim Tropical",
+   "id": "p080",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "ASSISTENTE DE CAIXA GERAL",
+   "dep": "Financeiro",
+   "filial": "Jardim Tropical",
+   "id": "p081",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "GERENTE DE CAIXA GERAL",
+   "dep": "Financeiro",
+   "filial": "Jardim Tropical",
+   "id": "p082",
+   "ideal": 0,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "GERENTE DE FOOD SERVICE",
+   "dep": "Food Service",
+   "filial": "Jardim Tropical",
+   "id": "p083",
+   "ideal": 0,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "REPOSITOR",
+   "dep": "Food Service",
+   "filial": "Jardim Tropical",
+   "id": "s113",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "VENDEDOR",
+   "dep": "Food Service",
+   "filial": "Jardim Tropical",
+   "id": "s114",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "PROMOTOR DE VENDAS",
+   "dep": "Gestao de Cartoes",
+   "filial": "Jardim Tropical",
+   "id": "s115",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "AUXILIAR DE PRODUCAO",
+   "dep": "Administracao Loja",
+   "filial": "Maiobão Ubatuba",
+   "id": "s001",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "GERENTE DE LOJA",
+   "dep": "Administracao Loja",
+   "filial": "Maiobão Ubatuba",
+   "id": "p088",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "SUBGERENTE DE LOJA",
+   "dep": "Administracao Loja",
+   "filial": "Maiobão Ubatuba",
+   "id": "p089",
+   "ideal": 2,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "GERENTE DE REPOSICAO",
+   "dep": "Administracao Loja",
+   "filial": "Maiobão Ubatuba",
+   "id": "p090",
+   "ideal": 0,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "GERENTE DE WMS",
+   "dep": "Administracao Loja",
+   "filial": "Maiobão Ubatuba",
+   "id": "p091",
+   "ideal": 0,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "AUXILIAR DE LOJA II",
+   "dep": "Atacado - Balcao Loja",
+   "filial": "Maiobão Ubatuba",
+   "id": "s002",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "CONFERENTE",
+   "dep": "Atacado - Balcao Loja",
+   "filial": "Maiobão Ubatuba",
+   "id": "s003",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "GERENTE DE EXPEDICAO",
+   "dep": "Atacado - Balcao Loja",
+   "filial": "Maiobão Ubatuba",
+   "id": "p094",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "GERENTE DE VENDAS",
+   "dep": "Atacado - Balcao Loja",
+   "filial": "Maiobão Ubatuba",
+   "id": "p095",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "SEPARADOR",
+   "dep": "Atacado - Balcao Loja",
+   "filial": "Maiobão Ubatuba",
+   "id": "s004",
+   "ideal": 3,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 3
+  },
+  {
+   "cargo": "VENDEDOR DE BALCAO - COMISSIONADO",
+   "dep": "Atacado - Balcao Loja",
+   "filial": "Maiobão Ubatuba",
+   "id": "s005",
+   "ideal": 3,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 4
+  },
+  {
+   "cargo": "VENDEDOR DE BALCAO",
+   "dep": "Atacado - Balcao Loja",
+   "filial": "Maiobão Ubatuba",
+   "id": "s006",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "AUXILIAR DE LOJA II",
+   "dep": "Atendimento Caixa",
+   "filial": "Maiobão Ubatuba",
+   "id": "s007",
+   "ideal": 85,
+   "nivel": "BASE",
+   "pcd": 6,
+   "real": 87
+  },
+  {
+   "cargo": "AUXILIAR DE LOJA I",
+   "dep": "Atendimento Embalagem",
+   "filial": "Maiobão Ubatuba",
+   "id": "s008",
+   "ideal": 8,
+   "nivel": "BASE",
+   "pcd": 4,
+   "real": 9
+  },
+  {
+   "cargo": "AUXILIAR DE LOJA I - HORISTA",
+   "dep": "Atendimento Embalagem",
+   "filial": "Maiobão Ubatuba",
+   "id": "s009",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "AUXILIAR DE LOJA II",
+   "dep": "Boteco",
+   "filial": "Maiobão Ubatuba",
+   "id": "s010",
+   "ideal": 3,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 3
+  },
+  {
+   "cargo": "REPOSITOR",
+   "dep": "Boteco",
+   "filial": "Maiobão Ubatuba",
+   "id": "s011",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "VENDEDOR - COMISSIONADO",
+   "dep": "Boteco",
+   "filial": "Maiobão Ubatuba",
+   "id": "s012",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "AUXILIAR ADMINISTRATIVO",
+   "dep": "Faturamento",
+   "filial": "Maiobão Ubatuba",
+   "id": "s013",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "REPOSITOR",
+   "dep": "Food Service",
+   "filial": "Maiobão Ubatuba",
+   "id": "s014",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "VENDEDOR",
+   "dep": "Food Service",
+   "filial": "Maiobão Ubatuba",
+   "id": "s015",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "GERENTE DE FRIOS E LATICINIOS",
+   "dep": "Frios",
+   "filial": "Maiobão Ubatuba",
+   "id": "p108",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "REPOSITOR",
+   "dep": "Frios",
+   "filial": "Maiobão Ubatuba",
+   "id": "s019",
+   "ideal": 22,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 22
+  },
+  {
+   "cargo": "PROMOTOR DE VENDAS",
+   "dep": "Gestao de Cartoes",
+   "filial": "Maiobão Ubatuba",
+   "id": "s020",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "CARTAZISTA",
+   "dep": "Marketing",
+   "filial": "Maiobão Ubatuba",
+   "id": "s021",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "LOCUTOR",
+   "dep": "Marketing",
+   "filial": "Maiobão Ubatuba",
+   "id": "s022",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "PROMOTOR DE MARCAS",
+   "dep": "Merchandising",
+   "filial": "Maiobão Ubatuba",
+   "id": "s023",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 1,
+   "real": 3
+  },
+  {
+   "cargo": "PROMOTOR DE PERECIVEIS",
+   "dep": "Merchandising",
+   "filial": "Maiobão Ubatuba",
+   "id": "s024",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "AUXILIAR DE LOJA II",
+   "dep": "Mix Mais",
+   "filial": "Maiobão Ubatuba",
+   "id": "s025",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "REPOSITOR",
+   "dep": "Mix Mais",
+   "filial": "Maiobão Ubatuba",
+   "id": "s026",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "TECNICO EM MANUTENCAO",
+   "dep": "Operacoes de Manutencao",
+   "filial": "Maiobão Ubatuba",
+   "id": "s027",
+   "ideal": 2,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "AUXILIAR DE PRODUCAO",
+   "dep": "Padaria",
+   "filial": "Maiobão Ubatuba",
+   "id": "s028",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "AUXILIAR DE SERVICOS GERAIS",
+   "dep": "Padaria",
+   "filial": "Maiobão Ubatuba",
+   "id": "s029",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "BALCONISTA",
+   "dep": "Padaria",
+   "filial": "Maiobão Ubatuba",
+   "id": "s030",
+   "ideal": 5,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 5
+  },
+  {
+   "cargo": "CONFEITEIRO",
+   "dep": "Padaria",
+   "filial": "Maiobão Ubatuba",
+   "id": "s031",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "FORNEIRO",
+   "dep": "Padaria",
+   "filial": "Maiobão Ubatuba",
+   "id": "s032",
+   "ideal": 3,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 3
+  },
+  {
+   "cargo": "GERENTE DE PADARIA",
+   "dep": "Padaria",
+   "filial": "Maiobão Ubatuba",
+   "id": "p123",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 2
+  },
+  {
+   "cargo": "PIZZAIOLO",
+   "dep": "Padaria",
+   "filial": "Maiobão Ubatuba",
+   "id": "s033",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "AUXILIAR DE SUSHIMAN",
+   "dep": "Padaria",
+   "filial": "Maiobão Ubatuba",
+   "id": "s034",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "ANALISTA DE RH",
+   "dep": "Suporte em Operacoes Rh",
+   "filial": "Maiobão Ubatuba",
+   "id": "s035",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "ASSISTENTE DE RH",
+   "dep": "Suporte em Operacoes Rh",
+   "filial": "Maiobão Ubatuba",
+   "id": "s036",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "AUXILIAR DE CPD",
+   "dep": "Suporte Operacional de T.I",
+   "filial": "Maiobão Ubatuba",
+   "id": "s037",
+   "ideal": 3,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 3
+  },
+  {
+   "cargo": "GERENTE DE LIMPEZA",
+   "dep": "Limpeza",
+   "filial": "Maiobão Ubatuba",
+   "id": "p129",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "AUXILIAR DE SERVICOS GERAIS",
+   "dep": "Limpeza",
+   "filial": "Maiobão Ubatuba",
+   "id": "s039",
+   "ideal": 17,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 16
+  },
+  {
+   "cargo": "CONFERENTE",
+   "dep": "Deposito",
+   "filial": "Maiobão Ubatuba",
+   "id": "s040",
+   "ideal": 6,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 6
+  },
+  {
+   "cargo": "GERENTE DE DEPOSITO",
+   "dep": "Deposito",
+   "filial": "Maiobão Ubatuba",
+   "id": "p132",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "AUXILIAR DE DEPOSITO",
+   "dep": "Deposito",
+   "filial": "Maiobão Ubatuba",
+   "id": "s041",
+   "ideal": 8,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 7
+  },
+  {
+   "cargo": "FISCAL DE PREV DE PERDAS",
+   "dep": "Controle e Prev. de Perdas",
+   "filial": "Maiobão Ubatuba",
+   "id": "s038",
+   "ideal": 25,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 24
+  },
+  {
+   "cargo": "GERENTE DE PREVENCAO DE PERDA",
+   "dep": "Controle e Prev. de Perdas",
+   "filial": "Maiobão Ubatuba",
+   "id": "p135",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "ACOUGUEIRO I",
+   "dep": "Acougue",
+   "filial": "Maiobão Ubatuba",
+   "id": "s042",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "GERENTE DE ACOUGUE",
+   "dep": "Acougue",
+   "filial": "Maiobão Ubatuba",
+   "id": "p137",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "AUXILIAR DE ACOUGUE",
+   "dep": "Acougue",
+   "filial": "Maiobão Ubatuba",
+   "id": "s043",
+   "ideal": 12,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 11
+  },
+  {
+   "cargo": "ACOUGUEIRO",
+   "dep": "Acougue",
+   "filial": "Maiobão Ubatuba",
+   "id": "s044",
+   "ideal": 10,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 9
+  },
+  {
+   "cargo": "AUXILIAR ESTACIONAMENTO",
+   "dep": "Frente de Loja",
+   "filial": "Maiobão Ubatuba",
+   "id": "s016",
+   "ideal": 3,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 3
+  },
+  {
+   "cargo": "FISCAL DE CAIXA",
+   "dep": "Frente de Loja",
+   "filial": "Maiobão Ubatuba",
+   "id": "s017",
+   "ideal": 5,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 7
+  },
+  {
+   "cargo": "AUXILIAR DE LOJA II",
+   "dep": "Frente de Loja",
+   "filial": "Maiobão Ubatuba",
+   "id": "s018",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "GERENTE DE FRENTE DE LOJA",
+   "dep": "Frente de Loja",
+   "filial": "Maiobão Ubatuba",
+   "id": "p143",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "OPERADOR DE EMPILHADEIRA",
+   "dep": "Reposicao",
+   "filial": "Maiobão Ubatuba",
+   "id": "s045",
+   "ideal": 4,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 4
+  },
+  {
+   "cargo": "REPOSITOR",
+   "dep": "Reposicao",
+   "filial": "Maiobão Ubatuba",
+   "id": "s046",
+   "ideal": 38,
+   "nivel": "BASE",
+   "pcd": 3,
+   "real": 34
+  },
+  {
+   "cargo": "GERENTE DE REPOSICAO",
+   "dep": "Reposicao",
+   "filial": "Maiobão Ubatuba",
+   "id": "p146",
+   "ideal": 2,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "VENDEDOR",
+   "dep": "Reposicao",
+   "filial": "Maiobão Ubatuba",
+   "id": "s047",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 1
+  },
+  {
+   "cargo": "REPOSITOR",
+   "dep": "Hortifruti",
+   "filial": "Maiobão Ubatuba",
+   "id": "s048",
+   "ideal": 12,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 14
+  },
+  {
+   "cargo": "COMPRADOR JUNIOR",
+   "dep": "Hortifruti",
+   "filial": "Maiobão Ubatuba",
+   "id": "s049",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "GERENTE DE HORTIFRUTI",
+   "dep": "Hortifruti",
+   "filial": "Maiobão Ubatuba",
+   "id": "p150",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "REPOSITOR I",
+   "dep": "Hortifruti",
+   "filial": "Maiobão Ubatuba",
+   "id": "s050",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "PEIXEIRO",
+   "dep": "Peixaria",
+   "filial": "Maiobão Ubatuba",
+   "id": "s051",
+   "ideal": 6,
+   "nivel": "BASE",
+   "pcd": 1,
+   "real": 7
+  },
+  {
+   "cargo": "GERENTE DE PEIXARIA",
+   "dep": "Peixaria",
+   "filial": "Maiobão Ubatuba",
+   "id": "p153",
+   "ideal": 1,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "PEIXEIRO I",
+   "dep": "Peixaria",
+   "filial": "Maiobão Ubatuba",
+   "id": "s052",
+   "ideal": 1,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "APRENDIZ",
+   "dep": "Aprendizagem",
+   "filial": "Maiobão Ubatuba",
+   "id": "p155",
+   "ideal": 18,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 17,
+   "semAd": true
+  },
+  {
+   "cargo": "CONFERENTE DE INVENTARIO",
+   "dep": "Estoque",
+   "filial": "Maiobão Ubatuba",
+   "id": "p156",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "ESTOQUISTA",
+   "dep": "Estoque",
+   "filial": "Maiobão Ubatuba",
+   "id": "p157",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "ASSISTENTE DE CAIXA GERAL",
+   "dep": "Financeiro",
+   "filial": "Maiobão Ubatuba",
+   "id": "p158",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "GERENTE DE CAIXA GERAL",
+   "dep": "Financeiro",
+   "filial": "Maiobão Ubatuba",
+   "id": "p159",
+   "ideal": 0,
+   "nivel": "GESTÃO",
+   "pcd": 0,
+   "real": 0
+  },
+  {
+   "cargo": "AUXILIAR DE DEPOSITO",
+   "dep": "Formacao Profissional",
+   "filial": "Maiobão Ubatuba",
+   "id": "p160",
+   "ideal": 0,
+   "nivel": "BASE",
+   "pcd": 0,
+   "real": 0
+  }
+ ],
+ "vagas": [
+  {
+   "cand": "",
+   "cargo": "AUXILIAR DE LOJA II",
+   "data": "2026-11-20",
+   "dep": "Atendimento Caixa",
+   "filial": "Maiobão Ubatuba",
+   "id": "v001",
+   "obs": "",
+   "prio": "Média",
+   "status": "Em admissão"
+  },
+  {
+   "cand": "",
+   "cargo": "AUXILIAR DE LOJA II",
+   "data": "2026-11-20",
+   "dep": "Atendimento Caixa",
+   "filial": "Maiobão Ubatuba",
+   "id": "v002",
+   "obs": "",
+   "prio": "Média",
+   "status": "Em admissão"
+  },
+  {
+   "cand": "",
+   "cargo": "FISCAL DE PREV DE PERDAS",
+   "data": "2026-11-20",
+   "dep": "Controle e Prev. de Perdas",
+   "filial": "Maiobão Ubatuba",
+   "id": "v003",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cargo": "FISCAL DE PREV DE PERDAS",
+   "data": "2026-11-20",
+   "dep": "Controle e Prev. de Perdas",
+   "filial": "Maiobão Ubatuba",
+   "id": "v004",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cargo": "FISCAL DE PREV DE PERDAS",
+   "data": "2026-11-20",
+   "dep": "Controle e Prev. de Perdas",
+   "filial": "Maiobão Ubatuba",
+   "id": "v005",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cargo": "AUXILIAR DE SERVICOS GERAIS",
+   "data": "2026-11-20",
+   "dep": "Limpeza",
+   "filial": "Maiobão Ubatuba",
+   "id": "v006",
+   "obs": "",
+   "prio": "Média",
+   "status": "Em admissão"
+  },
+  {
+   "cand": "",
+   "cargo": "AUXILIAR DE DEPOSITO",
+   "data": "2026-11-20",
+   "dep": "Deposito",
+   "filial": "Maiobão Ubatuba",
+   "id": "v007",
+   "obs": "",
+   "prio": "Média",
+   "status": "Em admissão"
+  },
+  {
+   "cand": "",
+   "cargo": "AUXILIAR DE DEPOSITO",
+   "data": "2026-11-20",
+   "dep": "Deposito",
+   "filial": "Maiobão Ubatuba",
+   "id": "v008",
+   "obs": "",
+   "prio": "Média",
+   "status": "Em admissão"
+  },
+  {
+   "cand": "",
+   "cargo": "AUXILIAR DE ACOUGUE",
+   "data": "2026-11-20",
+   "dep": "Acougue",
+   "filial": "Maiobão Ubatuba",
+   "id": "v009",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cargo": "ACOUGUEIRO",
+   "data": "2026-11-20",
+   "dep": "Acougue",
+   "filial": "Maiobão Ubatuba",
+   "id": "v010",
+   "obs": "",
+   "prio": "Média",
+   "status": "Em movimentação"
+  },
+  {
+   "cand": "",
+   "cargo": "REPOSITOR",
+   "data": "2026-11-20",
+   "dep": "Reposicao",
+   "filial": "Maiobão Ubatuba",
+   "id": "v011",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cargo": "REPOSITOR",
+   "data": "2026-11-20",
+   "dep": "Reposicao",
+   "filial": "Maiobão Ubatuba",
+   "id": "v012",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cargo": "REPOSITOR",
+   "data": "2026-11-20",
+   "dep": "Reposicao",
+   "filial": "Maiobão Ubatuba",
+   "id": "v013",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cargo": "REPOSITOR",
+   "data": "2026-11-20",
+   "dep": "Reposicao",
+   "filial": "Jardim Tropical",
+   "id": "v014",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cargo": "AUXILIAR DE LOJA II",
+   "data": "2026-11-20",
+   "dep": "Atendimento Caixa",
+   "filial": "Jardim Tropical",
+   "id": "v015",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cargo": "AUXILIAR DE LOJA II",
+   "data": "2026-11-20",
+   "dep": "Atendimento Caixa",
+   "filial": "Jardim Tropical",
+   "id": "v016",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cargo": "AUXILIAR DE LOJA II",
+   "data": "2026-11-20",
+   "dep": "Atendimento Caixa",
+   "filial": "Jardim Tropical",
+   "id": "v017",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cargo": "AUXILIAR DE LOJA II",
+   "data": "2026-11-20",
+   "dep": "Atendimento Caixa",
+   "filial": "Jardim Tropical",
+   "id": "v018",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cargo": "AUXILIAR DE LOJA II",
+   "data": "2026-11-20",
+   "dep": "Atendimento Caixa",
+   "filial": "Jardim Tropical",
+   "id": "v019",
+   "obs": "",
+   "prio": "Média",
+   "status": "Em admissão"
+  },
+  {
+   "cand": "",
+   "cargo": "REPOSITOR",
+   "data": "2026-11-20",
+   "dep": "Frios",
+   "filial": "Jardim Tropical",
+   "id": "v020",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cargo": "REPOSITOR",
+   "data": "2026-11-20",
+   "dep": "Frios",
+   "filial": "Jardim Tropical",
+   "id": "v021",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cargo": "REPOSITOR",
+   "data": "2026-11-20",
+   "dep": "Frios",
+   "filial": "Jardim Tropical",
+   "id": "v022",
+   "obs": "",
+   "prio": "Média",
+   "status": "Em admissão"
+  },
+  {
+   "cand": "",
+   "cargo": "SEPARADOR",
+   "data": "2026-11-20",
+   "dep": "Atacado - Balcao Loja",
+   "filial": "Jardim Tropical",
+   "id": "v023",
+   "obs": "",
+   "prio": "Média",
+   "status": "Em movimentação"
+  },
+  {
+   "cand": "",
+   "cargo": "REPOSITOR",
+   "data": "2026-11-20",
+   "dep": "Hortifruti",
+   "filial": "Jardim Tropical",
+   "id": "v024",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cargo": "REPOSITOR",
+   "data": "2026-11-20",
+   "dep": "Hortifruti",
+   "filial": "Jardim Tropical",
+   "id": "v025",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cands": [],
+   "cargo": "APRENDIZ",
+   "data": "2026-11-20",
+   "dep": "Aprendizagem",
+   "filial": "Jardim Tropical",
+   "id": "a000",
+   "obs": "",
+   "prio": "Média",
+   "status": "Aberta"
+  },
+  {
+   "cand": "",
+   "cands": [],
+   "cargo": "APRENDIZ",
+   "data": "2026-11-20",
+   "dep": "Aprendizagem",
+   "filial": "Jardim Tropical",
+   "id": "a001",
+   "obs": "",
+   "prio": "Média",
+   "status": "Em admissão"
+  },
+  {
+   "cand": "",
+   "cands": [],
+   "cargo": "APRENDIZ",
+   "data": "2026-11-20",
+   "dep": "Aprendizagem",
+   "filial": "Jardim Tropical",
+   "id": "a002",
+   "obs": "",
+   "prio": "Média",
+   "status": "Em admissão"
+  }
+ ]
+}
